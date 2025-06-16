@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "email": "roqiahani5@gmail.com",
+      "password": "$2a$10$B0/PkAC.JuvXasLMoJM3NuCdSbP1h9RfNPzNM6uuzp2ytZBUwKch2",
+      "name": "Roqia Hany null",
+      "id": 1
+    },
+    {
+      "email": "roqiahani@gmail.com",
+      "password": "$2a$10$DtZSuM40jEIeN26jviZg4O0cBcn5meLe4zFijnB.FdEXW65bWsGUm",
+      "name": "Roqia Hany  AbdelKareem null",
+      "id": 2
+    },
+    {
+      "email": "roqahani@gmail.com",
+      "password": "$2a$10$v1XekIQn2SMJ8CW0s1MVxOjvSp6OUQ/0P0YAjj6s6uxCzIL8P/JRa",
+      "name": "Roqa Hany  null",
+      "id": 3
+    },
+    {
+      "email": "roqahani5@gmail.com",
+      "password": "$2a$10$LWUJsyyDrHO.BZrAeTpQ2.fq0YGjPkA/YSXZz0GURdgvvRLwAR16O",
+      "name": "Roqa Hany",
+      "id": 4
+    },
+    {
+      "email": "roqiahani55@gmail.com",
+      "password": "$2a$10$X926mLlD985orDYSPj0e9Og.UguM4438D3zgtwk7amD4tT2OVy4li",
+      "name": "Roq Hany",
+      "id": 5
+    },
+    {
+      "email": "ayatHAny@gmail.com",
+      "password": "$2a$10$.LN66GxUA3y6EKJrK.xSD.xCakWlrNtP0Qx.6TC0tWUKOQlVwB0Rq",
+      "name": "ayat hany",
+      "id": 6
+    },
+    {
+      "email": "mo@gmail.com",
+      "password": "$2a$10$qlgbb7yN461vWNVJW8Dd0uvv.LSrKDFM0vHD.F1ATqGguQGT1unWe",
+      "name": "mohamed",
+      "id": 7
+    },
+    {
+      "email": "lolo@gmail.com",
+      "password": "$2a$10$7p4eb0p1rmdpQK6caQ8fBOp9ixu2fHf0RD4bB.fqeEDRI6RgXb5Li",
+      "name": "lolo",
+      "id": 8
+    },
+    {
+      "email": "hi@gmail.com",
+      "password": "$2a$10$DPI.ntDw1KjrwkWheEfyteYm6QU87cVAH5XVCynFuljNyDUVRmgVW",
+      "name": "hi ",
+      "id": 9
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "img": "https://picsum.photos/800/450?random=1",
+      "title": "Post 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "author": {
+        "name": "Remy Sharp",
+        "avatar": "/static/images/avatar/1.jpg"
+      },
+      "userId": 1
+    },
+    {
+      "title": "new post",
+      "description": "gokpokqpk[ojbpoqv",
+      "img": "https://images.unsplash.com/photo-1749324440929-6a9b5cb008b7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxMjV8fHxlbnwwfHx8fHw%3D",
+      "userId": 1,
+      "author": {
+        "name": "Roqia Hany null",
+        "avatar": "/static/images/avatar/1.jpg"
+      },
+      "id": 2
+    },
+    {
+      "title": "my fav post",
+      "description": "hello every one iam finally finished my project",
+      "img": "https://images.unsplash.com/photo-1749916883754-a7b3fc88d4a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8",
+      "userId": 6,
+      "author": {
+        "name": "ayat hany",
+        "avatar": "/static/images/avatar/6.jpg"
+      },
+      "id": 3
+    },
+    {
+      "title": "some thing error",
+      "description": "omg",
+      "img": "https://images.unsplash.com/photo-1749916883754-a7b3fc88d4a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8",
+      "userId": 6,
+      "author": {
+        "name": "ayat hany",
+        "avatar": "/static/images/avatar/6.jpg"
+      },
+      "id": 4
+    },
+    {
+      "title": "final edit",
+      "description": "yyyaaaarrrrbbbb",
+      "img": "https://images.unsplash.com/photo-1749838432456-4cf0774dc92e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8",
+      "userId": 7,
+      "author": {
+        "name": "mohamed",
+        "avatar": "/static/images/avatar/7.jpg"
+      },
+      "id": 5
+    },
+    {
+      "title": "lolo post edit",
+      "description": "hi every one im lolo",
+      "img": "https://images.unsplash.com/photo-1743596259979-7c0d026abdcd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4fHx8ZW58MHx8fHx8",
+      "userId": 8,
+      "author": {
+        "name": "lolo",
+        "avatar": "/static/images/avatar/8.jpg"
+      },
+      "id": 6
+    }
+  ]
+}
