@@ -1,12 +1,36 @@
-# React + Vite
+ Free Post – React + Tailwind CSS
+ 
+ # Free Post App 📝🌐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight post-sharing web application built using **React** and **Tailwind CSS**, integrated with **Firebase Authentication** and **Firestore**. Users can create, edit, and delete posts with image URLs in real time.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔐 Firebase Authentication (Email/Google)
+- 🖼️ Create posts with image URL
+- ✏️ Edit & delete your own posts
+- 📡 Real-time updates with Firestore
+- Responsive and clean UI using Tailwind CSS
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Tailwind CSS
+- Firebase (Authentication + Firestore)
+
+## ▶️ Getting Started
+
+1. Clone the Repository
+git clone https://github.com/roqiahany/free-post-app.git
+cd free-post-app
+
+2. Install Dependencies
+npm install
+
+3. Firebase Setup
+npm start
+
+
+## 🎥 Demo Video
+
+👉 [Free Post App Demo (Google Drive)](https://drive.google.com/file/d/1c_86af9XEEFCC9_b5AATSI-6GzFN-aRa/view?usp=drive_link)
